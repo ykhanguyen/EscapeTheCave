@@ -13,6 +13,16 @@
 		450EEEF51D0C0D740067317E /* nice_music.ogg in Resources */ = {isa = PBXBuildFile; fileRef = 450EEEF41D0C0D740067317E /* nice_music.ogg */; };
 		450EEEF71D0C0D740067317E /* sansation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 450EEEF61D0C0D740067317E /* sansation.ttf */; };
 		450EEEF91D0C0D740067317E /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 450EEEF81D0C0D740067317E /* icon.png */; };
+		450EEF001D0C15350067317E /* Kirby.png in Resources */ = {isa = PBXBuildFile; fileRef = 450EEEFF1D0C15350067317E /* Kirby.png */; };
+		450EEF081D0C15430067317E /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 450EEF011D0C15430067317E /* Background.jpg */; };
+		450EEF091D0C15430067317E /* KirbyDown.png in Resources */ = {isa = PBXBuildFile; fileRef = 450EEF021D0C15430067317E /* KirbyDown.png */; };
+		450EEF0A1D0C15430067317E /* KirbyRight.png in Resources */ = {isa = PBXBuildFile; fileRef = 450EEF031D0C15430067317E /* KirbyRight.png */; };
+		450EEF0B1D0C15430067317E /* KirbyUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 450EEF041D0C15430067317E /* KirbyUp.png */; };
+		450EEF0C1D0C15430067317E /* Obstacle.png in Resources */ = {isa = PBXBuildFile; fileRef = 450EEF051D0C15430067317E /* Obstacle.png */; };
+		450EEF0D1D0C15430067317E /* Poison.png in Resources */ = {isa = PBXBuildFile; fileRef = 450EEF061D0C15430067317E /* Poison.png */; };
+		450EEF0E1D0C15430067317E /* Potion.png in Resources */ = {isa = PBXBuildFile; fileRef = 450EEF071D0C15430067317E /* Potion.png */; };
+		450EEF101D0C16080067317E /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 450EEF0F1D0C16080067317E /* Background.png */; };
+		450EEF121D0C16B80067317E /* Light.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 450EEF111D0C16B80067317E /* Light.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +35,16 @@
 		450EEEF41D0C0D740067317E /* nice_music.ogg */ = {isa = PBXFileReference; lastKnownFileType = file; path = nice_music.ogg; sourceTree = "<group>"; };
 		450EEEF61D0C0D740067317E /* sansation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sansation.ttf; sourceTree = "<group>"; };
 		450EEEF81D0C0D740067317E /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		450EEEFF1D0C15350067317E /* Kirby.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Kirby.png; sourceTree = "<group>"; };
+		450EEF011D0C15430067317E /* Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Background.jpg; sourceTree = "<group>"; };
+		450EEF021D0C15430067317E /* KirbyDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KirbyDown.png; sourceTree = "<group>"; };
+		450EEF031D0C15430067317E /* KirbyRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KirbyRight.png; sourceTree = "<group>"; };
+		450EEF041D0C15430067317E /* KirbyUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KirbyUp.png; sourceTree = "<group>"; };
+		450EEF051D0C15430067317E /* Obstacle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Obstacle.png; sourceTree = "<group>"; };
+		450EEF061D0C15430067317E /* Poison.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Poison.png; sourceTree = "<group>"; };
+		450EEF071D0C15430067317E /* Potion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Potion.png; sourceTree = "<group>"; };
+		450EEF0F1D0C16080067317E /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background.png; sourceTree = "<group>"; };
+		450EEF111D0C16B80067317E /* Light.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Light.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +97,16 @@
 		450EEEF11D0C0D740067317E /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				450EEF111D0C16B80067317E /* Light.jpg */,
+				450EEF0F1D0C16080067317E /* Background.png */,
+				450EEF011D0C15430067317E /* Background.jpg */,
+				450EEF021D0C15430067317E /* KirbyDown.png */,
+				450EEF031D0C15430067317E /* KirbyRight.png */,
+				450EEF041D0C15430067317E /* KirbyUp.png */,
+				450EEF051D0C15430067317E /* Obstacle.png */,
+				450EEF061D0C15430067317E /* Poison.png */,
+				450EEF071D0C15430067317E /* Potion.png */,
+				450EEEFF1D0C15350067317E /* Kirby.png */,
 				450EEEF21D0C0D740067317E /* cute_image.jpg */,
 				450EEEF41D0C0D740067317E /* nice_music.ogg */,
 				450EEEF61D0C0D740067317E /* sansation.ttf */,
@@ -142,10 +172,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				450EEF0B1D0C15430067317E /* KirbyUp.png in Resources */,
+				450EEF0A1D0C15430067317E /* KirbyRight.png in Resources */,
+				450EEF0E1D0C15430067317E /* Potion.png in Resources */,
+				450EEF001D0C15350067317E /* Kirby.png in Resources */,
+				450EEF101D0C16080067317E /* Background.png in Resources */,
+				450EEF0D1D0C15430067317E /* Poison.png in Resources */,
 				450EEEF91D0C0D740067317E /* icon.png in Resources */,
+				450EEF0C1D0C15430067317E /* Obstacle.png in Resources */,
 				450EEEF71D0C0D740067317E /* sansation.ttf in Resources */,
 				450EEEF51D0C0D740067317E /* nice_music.ogg in Resources */,
+				450EEF121D0C16B80067317E /* Light.jpg in Resources */,
 				450EEEF31D0C0D740067317E /* cute_image.jpg in Resources */,
+				450EEF091D0C15430067317E /* KirbyDown.png in Resources */,
+				450EEF081D0C15430067317E /* Background.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
