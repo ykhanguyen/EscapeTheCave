@@ -32,7 +32,7 @@ int const APPLET_SIZE = 750;
 int const CHARACTER_SIZE = 50;
 double const MOVEMENT = 3.5;
 int score = 20000;
-double  lightDy = 0.1;
+double  lightDy = 0.5;
 bool preScreenBool = true;
 int maxScore = 0;
 //declare
@@ -129,7 +129,7 @@ int main()
     
     // absolute scale factor
     //sprite.scale(sf::Vector2f(1.5f, 3.f));
-    sf::RenderWindow window(sf::VideoMode(APPLET_SIZE, APPLET_SIZE), "KHA NGUYEN - TAM BUI - FINAL PROJECT");
+    sf::RenderWindow window(sf::VideoMode(APPLET_SIZE, APPLET_SIZE), "KHA NGUYEN");
     while (window.isOpen())
     {
         sf::Event event;
